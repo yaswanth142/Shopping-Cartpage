@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 100,
+    "imgUrl": "/imgs/book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 11199,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 5,
+    "imgUrl": "/imgs/banana.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 1400000,
+    "imgUrl": "/imgs/car1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Indian Tradition",
+    "price": 1800,
+    "imgUrl": "/imgs/k2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Womens Ware",
+    "price": 600,
+    "imgUrl": "/imgs/ab.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Pant",
+    "price": 1300,
+    "imgUrl": "/imgs/p2.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Shirt",
+    "price": 840,
+    "imgUrl": "/imgs/s4.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Shirt Casual",
+    "price": 980,
+    "imgUrl": "/imgs/s5.jpg"
+  },
+  {
+    "id": 10,
+    "name": "T-Shirt",
+    "price": 1400,
+    "imgUrl": "/imgs/t5.jpg"
+  },
+  {
+    "id": 11,
+    "name": "suit",
+    "price": 2400,
+    "imgUrl": "/imgs/su2.jpg"
+  },
+  {
+    "id": 12,
+    "name": "suit",
+    "price": 3400,
+    "imgUrl": "/imgs/su4.jpg"
+  }
+  
+]
